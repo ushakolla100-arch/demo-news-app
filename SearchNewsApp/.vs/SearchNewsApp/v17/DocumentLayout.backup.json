@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\controllers\\newsproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:controllers\\newsproxycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:models\\newsarticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:views\\news\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|c:\\users\\jagadeesh\\source\\repos\\searchnewsapp\\searchnewsapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{791CAC4A-8790-4102-8061-D6865E07644C}|SearchNewsApp.csproj|solutionrelative:searchnewsapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-19T00:45:17.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsProxyController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Controllers\\NewsProxyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsProxyController.cs",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Controllers\\NewsProxyController.cs",
+              "RelativeToolTip": "Controllers\\NewsProxyController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwCIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T00:29:40.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewsArticle.cs",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Models\\NewsArticle.cs",
+              "RelativeDocumentMoniker": "Models\\NewsArticle.cs",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Models\\NewsArticle.cs",
+              "RelativeToolTip": "Models\\NewsArticle.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:23:13.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Controllers\\NewsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T20:22:32.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T20:52:59.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:37:03.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:37:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T11:36:40.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Views\\News\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T20:26:00.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T23:21:05.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\News\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\News\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\News\\Details.cshtml",
+              "RelativeToolTip": "Views\\News\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T20:32:49.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T20:23:52.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SearchNewsApp",
+              "DocumentMoniker": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\SearchNewsApp.csproj",
+              "RelativeDocumentMoniker": "SearchNewsApp.csproj",
+              "ToolTip": "C:\\Users\\Jagadeesh\\source\\repos\\SearchNewsApp\\SearchNewsApp.csproj",
+              "RelativeToolTip": "SearchNewsApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T20:25:02.453Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
